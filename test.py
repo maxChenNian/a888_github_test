@@ -6,3 +6,5 @@ if __name__ == "__main__":
     print("nihao")
 
     print("mama")
+
+    print("zaibu")

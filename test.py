@@ -8,3 +8,5 @@ if __name__ == "__main__":
     print("mama")
 
     print("zaibu")
+
+    print("zui hou yi ci le")

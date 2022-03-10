@@ -10,3 +10,6 @@ if __name__ == "__main__":
     print("zaibu")
 
     print("zui hou yi ci le")
+
+    import cv2
+    import numpy as np
